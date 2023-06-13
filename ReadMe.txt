@@ -14,3 +14,4 @@ node server.js
 To run the server using nodemon
 npm start
 
+-- React JS Setup.
